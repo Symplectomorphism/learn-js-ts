@@ -1,2 +1,2 @@
-# learn-ts
-I will practice some TypeScript here.
+# learn-js-ts
+I will practice some JavaScript and TypeScript here.
